@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abiga\\source\\repos\\Pong\\Pong\\Pong.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended.Tweening\\MonoGame.Extended.Tweening.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended.Tweening\\MonoGame.Extended.Tweening.csproj",
+        "projectName": "MonoGame.Extended.Tweening",
+        "projectPath": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended.Tweening\\MonoGame.Extended.Tweening.csproj",
+        "packagesPath": "C:\\Users\\abiga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended.Tweening\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\MonoGame.Extended.csproj": {
+                "projectPath": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\MonoGame.Extended.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\MonoGame.Extended.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\MonoGame.Extended.csproj",
+        "projectName": "MonoGame.Extended",
+        "projectPath": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\MonoGame.Extended.csproj",
+        "packagesPath": "C:\\Users\\abiga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MonoGame.Framework.Content.Pipeline": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abiga\\source\\repos\\Plasma\\Plasma\\Plasma.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abiga\\source\\repos\\Plasma\\Plasma\\Plasma.csproj",
+        "projectName": "Plasma",
+        "projectPath": "C:\\Users\\abiga\\source\\repos\\Plasma\\Plasma\\Plasma.csproj",
+        "packagesPath": "C:\\Users\\abiga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abiga\\source\\repos\\Plasma\\Plasma\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended.Tweening\\MonoGame.Extended.Tweening.csproj": {
+                "projectPath": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended.Tweening\\MonoGame.Extended.Tweening.csproj"
+              },
+              "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\MonoGame.Extended.csproj": {
+                "projectPath": "C:\\Users\\abiga\\Documents\\MonoGame.Extended-develop\\src\\cs\\MonoGame.Extended\\MonoGame.Extended.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Aether.Physics2D.Diagnostics.MG": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "Aether.Physics2D.MG": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MLEM.Ui": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abiga\\source\\repos\\Pong\\Pong\\Pong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abiga\\source\\repos\\Pong\\Pong\\Pong.csproj",
+        "projectName": "Pong",
+        "projectPath": "C:\\Users\\abiga\\source\\repos\\Pong\\Pong\\Pong.csproj",
+        "packagesPath": "C:\\Users\\abiga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abiga\\source\\repos\\Pong\\Pong\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\abiga\\source\\repos\\Plasma\\Plasma\\Plasma.csproj": {
+                "projectPath": "C:\\Users\\abiga\\source\\repos\\Plasma\\Plasma\\Plasma.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

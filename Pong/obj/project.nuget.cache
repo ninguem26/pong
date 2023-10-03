@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiem1rfT4oLy/xEU4Efku1M3COV96VX8H5cUoETrhLr4lG3SfTL20xh7JVDE7rcPXqMZ8gp78GTHIBcuewSsRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abiga\\source\\repos\\Pong\\Pong\\Pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abiga\\.nuget\\packages\\aether.physics2d.diagnostics.mg\\2.0.0.1\\aether.physics2d.diagnostics.mg.2.0.0.1.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\aether.physics2d.mg\\2.0.0\\aether.physics2d.mg.2.0.0.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\mlem\\6.2.0\\mlem.6.2.0.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\mlem.ui\\6.2.0\\mlem.ui.6.2.0.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\abiga\\.nuget\\packages\\textcopy\\6.2.0\\textcopy.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
